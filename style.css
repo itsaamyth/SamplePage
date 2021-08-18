@@ -1,0 +1,30 @@
+body{
+    padding: 30px;
+}
+#img{
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin: 0  auto;
+}
+#sticky{
+    margin-bottom: 15px;
+}
+.card-text{
+    font-size: 18px;
+}
+button{
+    outline: none;
+    border-color: unset;
+}
+#left-card{
+padding: 30px;
+background-color: #f0f3f5;
+box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+#left{
+    color: #005da7;
+}
+#right{
+    color: red;
+}
